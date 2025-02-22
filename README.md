@@ -5,7 +5,7 @@ restore db NoteDB in SQLSever
 
 Running .Net Web API :
 Edit API_CWD in index.js with your spcific .NET API folder.
-const API_CWD = 'E:/Data Kerja/repos/NoteAPI/NoteAPI'; // Your .NET API folder
+const API_CWD = 'E:/Data Kerja/repos/NoteAPI/.Net Web API/NoteAPI'; // Your .NET API folder
 
 Running Electron App :
 cd electron-note-app
