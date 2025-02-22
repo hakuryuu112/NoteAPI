@@ -1,7 +1,8 @@
 # NoteAPI
 
 Database :
-restore db NoteDB in SQLSever
+restore Database NoteDB in SQLSever
+src : NoteAPI/Database/NoteDB.bak
 
 Running .Net Web API :
 Edit API_CWD in index.js with your spcific .NET API folder.
